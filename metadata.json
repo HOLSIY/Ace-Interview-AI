@@ -1,0 +1,6 @@
+{
+  "name": "AcePrompt Interview AI",
+  "description": "Ultra-fast, mobile-first live AI interview assistant that listens accurately and generates natural, personalized, human-sounding answers in real time.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
